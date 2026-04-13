@@ -1,2 +1,2 @@
 # MachineLearningModeChoiceGroup6
-Python Notebook contains the data cleaning code that reads the txt file.
+Final cleaned dataset is: "cleaned_dataset_without_criticalcolumns.csv"
